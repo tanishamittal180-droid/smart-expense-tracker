@@ -8,38 +8,45 @@ User Registration
 Secure Login & Logout
 Password Encryption using JWT/Bcrypt
 Protected Routes
+
 💰 Expense Management
 Add Income Transactions
 Add Expense Transactions
 Edit Transactions
 Delete Transactions
 Transaction History
+
 📂 Smart Categorization
 Automatic Expense Categorization
 Custom Categories
 Category-wise Spending Analysis
+
 📊 Dashboard & Analytics
 Monthly Expense Overview
 Income vs Expense Charts
 Budget Tracking
 Financial Summary Cards
 Interactive Graphs
+
 📈 Budget Management
 Create Monthly Budgets
 Track Budget Utilization
 Budget Alerts
 Overspending Notifications
+
 🔄 Recurring Transactions
 Daily Expenses
 Weekly Expenses
 Monthly Bills
 Automatic Future Entries
+
 🌍 Multi-Currency Support
 INR (₹)
 USD ($)
 EUR (€)
 GBP (£)
 Currency Conversion Support
+
 📁 File Import
 CSV Upload
 Bank Statement Import
@@ -48,11 +55,13 @@ Bulk Transaction Import
 Upload Receipt Images
 Extract Transaction Details
 Auto-fill Expense Entries
+
 📱 Progressive Web App (PWA)
 Mobile Friendly
 Installable App
 Offline Support
 Responsive Design
+
 🛠️ Tech Stack
 Frontend
 React.js
@@ -73,7 +82,9 @@ Additional Tools
 OCR API (Tesseract.js)
 CSV Parser
 Currency Exchange API
+
 project structure
+
 smart-expense-tracker/
 │
 ├── client/
@@ -94,6 +105,7 @@ smart-expense-tracker/
 │   ├── routes/
 │   ├── uploads/
 │   ├── config/📊 Main Modules
+
 Dashboard
 
 Displays:
@@ -154,6 +166,7 @@ Protected API Routes
 Input Validation
 MongoDB Injection Prevention
 CORS Protection
+
 🧪 Future Enhancements
 AI-Based Expense Prediction
 Voice Expense Entry
@@ -164,12 +177,14 @@ Savings Goals
 Dark Mode
 Family Shared Accounts
 Banking API Integration
+
 📈 Performance Optimizations
 Lazy Loading
 Pagination
 API Caching
 Optimized Database Queries
 Responsive UI
+
 🤝 Contributing
 Fork the Repository
 Create a New Branch
@@ -179,6 +194,7 @@ git commit -m "Added new feature"
 Push Changes
 git push origin feature-name
 Create Pull Request
+
 📝 License
 
 This project is licensed under the MIT License.
@@ -186,9 +202,3 @@ This project is licensed under the MIT License.
 👩‍💻 Author
 
 Tanisha Mittal
-
-Full Stack Developer Project
-│   └── server.js
-│
-├── README.md
-└── package.json
